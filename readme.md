@@ -91,7 +91,7 @@ Aquest document resumeix el funcionament i l'estructura del script bluesky_repor
 
 ## *Ús*
 - Instal.la els paquets necessaris  (pip install fpdf2 graph-tool).
-- Executa el programa i esriu el client que es vol analitzar un cop es demani a la terminal (handle).
+- Executa el programa i escriu el client que es vol analitzar un cop es demani a la terminal (handle).
 - Després d'un cert temps, es generaran els següents fitxers: 
 	-Un fitxer .txt amb l’informe complet escrit.
 	-Un fitxer .pdf que combina el text amb les imatges dels gràfics.
